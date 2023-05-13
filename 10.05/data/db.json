@@ -1,0 +1,139 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "name": "Ervin Howell",
+      "username": "Antonetteee",
+      "email": "Shanna@melissa.tr",
+      "cardnumber": "1234-2345-3456-3455",
+      "address": {
+        "street": "Victor Plains",
+        "suite": "Suite 879",
+        "city": "Wisokyburgh",
+        "zipcode": "90566-7771"
+      },
+      "date": "5/13/2023"
+    },
+    {
+      "id": 3,
+      "name": "Clementine Bauch",
+      "username": "Samanthaaa",
+      "email": "Nathan@yesenia.net",
+      "cardnumber": "1234-2345-3456-3455",
+      "address": {
+        "street": "Douglas Extension",
+        "suite": "Suite 847",
+        "city": "McKenziehaven",
+        "zipcode": "59590-4157"
+      },
+      "date": "5/13/2023"
+    },
+    {
+      "id": 4,
+      "name": "Patricia Lebsack",
+      "username": "Karianne",
+      "email": "Julianne.OConner@kory.org",
+      "cardnumber": "1234-2345-3456-3455",
+      "address": {
+        "street": "Hoeger Mall",
+        "suite": "Apt. 692",
+        "city": "South Elvis",
+        "zipcode": "53919-4257"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Chelsey Dietrich",
+      "username": "Kamren",
+      "email": "Lucio_Hettinger@annie.ca",
+      "cardnumber": "1234-2345-3456-3455",
+      "address": {
+        "street": "Skiles Walks",
+        "suite": "Suite 351",
+        "city": "Roscoeview",
+        "zipcode": "33263"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Mrs. Dennis Schulist",
+      "username": "Leopoldo_Corkery",
+      "email": "Karley_Dach@jasper.info",
+      "cardnumber": "1234-2345-3456-3455",
+      "address": {
+        "street": "Norberto Crossing",
+        "suite": "Apt. 950",
+        "city": "South Christy",
+        "zipcode": "23505-1337"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Kurtis Weissnat",
+      "username": "Elwyn.Skiles",
+      "email": "Telly.Hoeger@billy.biz",
+      "cardnumber": "1234-2345-3456-3455",
+      "address": {
+        "street": "Rex Trail",
+        "suite": "Suite 280",
+        "city": "Howemouth",
+        "zipcode": "58804-1099"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Nicholas Runolfsdottir V",
+      "username": "Maxime_Nienow",
+      "email": "Sherwood@rosamond.me",
+      "cardnumber": "1234-2345-3456-3455",
+      "address": {
+        "street": "Ellsworth Summit",
+        "suite": "Suite 729",
+        "city": "Aliyaview",
+        "zipcode": "45169"
+      }
+    },
+    {
+      "id": 9,
+      "name": "Glenna Reichert",
+      "username": "Delphine",
+      "email": "Chaim_McDermott@dana.io",
+      "cardnumber": "1234-2345-3456-3455",
+      "address": {
+        "street": "Dayna Park",
+        "suite": "Suite 449",
+        "city": "Bartholomebury",
+        "zipcode": "76495-3109"
+      }
+    },
+    {
+      "id": 10,
+      "name": "Clementina DuBuque",
+      "username": "Moriah.Stanton",
+      "email": "Rey.Padberg@karina.biz",
+      "cardnumber": "1234-2345-3456-3455",
+      "address": {
+        "street": "Kattie Turnpike",
+        "suite": "Suite 198",
+        "city": "Lebsackbury",
+        "zipcode": "31428-2261"
+      }
+    },
+    {
+      "name": "Nayda",
+      "username": "Maldonado",
+      "email": "jebojehim@mailinator.com",
+      "cardnumber": "Pa$$w0rd!",
+      "date": "5/13/2023",
+      "id": 11
+    },
+    {
+      "name": "Ray",
+      "username": "Witt",
+      "email": "kegadu@mailinator.com",
+      "cardnumber": "Pa$$w0rd!",
+      "date": "5/13/2023",
+      "id": 12
+    }
+  ]
+}
