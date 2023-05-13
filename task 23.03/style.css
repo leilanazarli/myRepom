@@ -1,0 +1,131 @@
+*{ 
+    margin: 0;
+    padding: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.main {
+    width: 100%;
+    height: 100vh;
+    position: relative;
+    overflow: hidden;
+    background: linear-gradient( to left ,grey, rgb(2, 2, 80));
+
+}
+nav {
+    width: 80%;
+    margin: 20px auto ;
+    position: sticky;
+    z-index: 1;
+    display: flex;
+
+}
+.logo{ 
+    flex-basis: 20%
+}
+.logo img { width: 150px;}
+.nav-links{
+    flex: 1;
+    text-align: right;
+}
+.nav-links ul li { 
+    list-style: none;
+    display: inline-block;
+    margin: 10px 20px ;
+    text-transform:uppercase;
+}
+.nav-links ul li a { 
+    text-decoration: none;
+    color: white;
+}
+.information { 
+    width: 1000px;
+    height: 1000px;
+    position: absolute;
+    top: 50%;
+    left: 0%;
+    transform: translateY(-50%);
+}
+#circle {
+    width: 1000px;
+    height: 1000px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: 50%;
+    transform: rotate(0deg);
+    transition: 1s;
+    /* background: gray; */
+}
+.feature img {
+    width: 100px;
+}
+.feature { 
+    position: absolute; 
+    display: flex;
+    color: white;
+}
+.feature div{
+    margin-left: 20px;
+} 
+.feature div p{
+    margin-top: 20px;
+}
+.acer { 
+    width: 300px;
+    position: absolute;
+    top: 45%;
+    left: 30%;
+    transform: translateY(-50%);
+    z-index: 1;
+}
+.one {
+    top: 450px ;
+    right: 30px;
+}
+.two { 
+    top: 450px;
+    left: 30px;
+    transform: rotate(180deg);
+}
+.three { 
+    left: 350px;
+    bottom: 150px;
+    transform: rotate(90deg);
+}
+.four { 
+    right: 400px;
+   top: 150px;
+   transform: rotate(270deg);
+}
+.controls{ 
+   position: absolute;
+   right: 10%;
+   top: 50%;
+   transform: translateY(-50%); 
+   text-align: center;
+}
+.controls h3{
+    margin: 15px 0;
+    color:whitesmoke ;
+}
+#upbtn{ 
+    width: 20px;
+    cursor: pointer;
+}
+#downbtn{ 
+    width: 20px;
+    cursor: pointer;
+    transform: rotate(180deg);
+}
+.overlay{ 
+    width: 0;
+    height: 0;
+    border-top: 500px solid white;
+    border-right: 500px solid transparent;
+    border-bottom: 500px solid white;
+    border-left: 500px solid white;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
